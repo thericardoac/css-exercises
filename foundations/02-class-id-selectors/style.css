@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#the-one{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#the-other-one{
+    background-color: #7fff00;
+    font-size: 24px;
+    font-weight: bold;
+}
